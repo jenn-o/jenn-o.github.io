@@ -1,0 +1,40 @@
+[{
+    "c_name": "Advanced Java Frameworks",
+        "c_date": "Tuesday",
+        "c_time": "9am - 12pm",
+        "c_location": "G307",
+        "c_prof_name": "Jonathan Peneva",
+        "c_description": "Learn Java frameworks."
+  },
+{
+      "c_name": "Capstone Project",
+          "c_date": "Wednesday",
+          "c_time": "9am - 12pm",
+          "c_location": "G407",
+          "c_prof_name": "Rich Smith",
+          "c_description": "Work with a team to develop a product for a client."
+},
+{
+    "c_name": "Mobile Java App Dev",
+        "c_date": "Wednesday",
+        "c_time": "2pm - 5pm",
+        "c_location": "E207B",
+        "c_prof_name": "Alexander Tetervak",
+        "c_description": "Learn to build Android apps with Android Studio."
+},
+{
+    "c_name": "Software Process Mgmt",
+        "c_date": "Thursday",
+        "c_time": "10am - 1pm",
+        "c_location": "G307",
+        "c_prof_name": "Basil Burgess",
+        "c_description": "Learn about TDD."
+},
+{
+    "c_name": "Hybrid Mobile App Dev",
+        "c_date": "Friday",
+        "c_time": "12pm - 3pm",
+        "c_location": "B303",
+        "c_prof_name": "Andy Pak",
+        "c_description": "Learn advanced app development."
+  }]
